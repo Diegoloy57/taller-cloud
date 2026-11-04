@@ -1,6 +1,7 @@
+
 [
   {
-    "name": "Main",
-    "ImageUri": "376424941676.dkr.ecr.us-east-1.amazonaws.com/taller:latest",
+    "name": "apache",
+    "imageUri": "376424941676.dkr.ecr.us-east-1.amazonaws.com/taller:latest"
   }
-]  
+]
